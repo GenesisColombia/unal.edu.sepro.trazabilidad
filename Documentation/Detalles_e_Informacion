@@ -1,24 +1,24 @@
 Perifericos Raspberry:
 
 	1. Screen 3.5": Funciona con los puertos acelerados SPI de la RB, ya tienen un kernel personalizado para poder conectar
-					sin problema la Pantalla a la Raspberry, todos los pines de la RB son conectados pero tiene puentes para 
-					poder usar los puertos que no necesita la Pantalla. Ocupa los pines hardware SPI (SCK, MOSI, MISO, CE0, CE1)
-					al igual que los GPIO #24, #25 y posiblemente el #18.
+			sin problema la Pantalla a la Raspberry, todos los pines de la RB son conectados pero tiene puentes para 
+			poder usar los puertos que no necesita la Pantalla. Ocupa los pines hardware SPI (SCK, MOSI, MISO, CE0, CE1)
+			al igual que los GPIO #24, #25 y posiblemente el #18.
 
 	2. FONA 808: 	Es el usado para guardar el GPS y enviar la información, funciona por medio de comandos AT ambas partes, en los 
-					documentos se encuentran el funcionamiento de estos. Necesita una alimentación de 5V y una tierra, además funciona
-					por medio de UART por lo cual necesita minimo RX y TX para el funcionamiento, se le puede adecuar un Speaker o un MIC 
-					cada uno necesitaria dos cables mas (pero no van a la RB).
+			documentos se encuentran el funcionamiento de estos. Necesita una alimentación de 5V y una tierra, además funciona
+			por medio de UART por lo cual necesita minimo RX y TX para el funcionamiento, se le puede adecuar un Speaker o un MIC 
+			cada uno necesitaria dos cables mas (pero no van a la RB).
 	
-	3. DTH22: 		Funciona con solo un el envio de la información por un SDA es decir, fuciona por medio de One-Wire, es por medio 
-					de este protocolo que se pueden obtener los datos del sensor. 
+	3. DTH22: 	Funciona con solo un el envio de la información por un SDA es decir, fuciona por medio de One-Wire, es por medio 
+			de este protocolo que se pueden obtener los datos del sensor. 
 	
-	4. SL018: 		El módulo de lectura de RFID funciona por medio del protocolo I2C y puede identificar las diferentes tipos de elementos
-				 	que nosotros hemos designado para el proyecto, se tiene que acercar totalmente para que este pueda ser leido ya que 
-					cuenta con un alcance muy corto 
+	4. SL018: 	El módulo de lectura de RFID funciona por medio del protocolo I2C y puede identificar las diferentes tipos de elementos
+			que nosotros hemos designado para el proyecto, se tiene que acercar totalmente para que este pueda ser leido ya que 
+			cuenta con un alcance muy corto 
 
-	5. GY-85:		Es un dispositivo que cuenta con el acelerometro ADXL345 y el giroscopio ITG3200, se encuentran algunas páginas utiles para 
-					entender el funcionamiento de un aceletrometro y un giroscopio, funciona por medio de I2C.
+	5. GY-85:	Es un dispositivo que cuenta con el acelerometro ADXL345 y el giroscopio ITG3200, se encuentran algunas páginas utiles para 
+			entender el funcionamiento de un aceletrometro y un giroscopio, funciona por medio de I2C.
 
 
 Procotolos que se usaran: 
