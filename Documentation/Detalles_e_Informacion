@@ -30,10 +30,21 @@ Procotolos que se usaran:
 
 Links de Utilidad
 
+RASPBERRY 
+		https://www.raspberrypi.org/documentation/
+		http://wiringpi.com/
+		http://pinout.xyz/
+
 PiTFT 3.5" Touch Screen for Raspberry Pi
 		https://learn.adafruit.com/adafruit-pitft-3-dot-5-touch-screen-for-raspberry-pi/overview
 		https://learn.adafruit.com/adafruit-pitft-3-dot-5-touch-screen-for-raspberry-pi/easy-install
 		https://learn.adafruit.com/adafruit-pitft-3-dot-5-touch-screen-for-raspberry-pi/detailed-install
+
+FONA 808
+		http://elinux.org/RPi_Serial_Connection
+
+DTH22
+		https://www.modmypi.com/blog/ds18b20-one-wire-digital-temperature-sensor-and-the-raspberry-pi
 
 GY-85
 		http://www.starlino.com/imu_guide.html
