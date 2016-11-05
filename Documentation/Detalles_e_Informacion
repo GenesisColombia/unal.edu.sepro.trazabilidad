@@ -34,7 +34,8 @@ RASPBERRY
 		https://www.raspberrypi.org/documentation/
 		http://wiringpi.com/
 		http://pinout.xyz/
-
+		https://www.learn2crack.com/category/raspberrypi		
+		
 PiTFT 3.5" Touch Screen for Raspberry Pi
 		https://learn.adafruit.com/adafruit-pitft-3-dot-5-touch-screen-for-raspberry-pi/overview
 		https://learn.adafruit.com/adafruit-pitft-3-dot-5-touch-screen-for-raspberry-pi/easy-install
@@ -45,6 +46,9 @@ FONA 808
 
 DTH22
 		https://www.modmypi.com/blog/ds18b20-one-wire-digital-temperature-sensor-and-the-raspberry-pi
+		
+SL018
+		https://learn.sparkfun.com/tutorials/raspberry-pi-spi-and-i2c-tutorial
 
 GY-85
 		http://www.starlino.com/imu_guide.html
