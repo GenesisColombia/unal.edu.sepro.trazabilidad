@@ -1,10 +1,14 @@
-POST /api/v1.6/variables/574293b4762542576095a4ea/values HTTP/1.1
+POST /api/v1.6/variables/581ded2476254279db1c61d5/values HTTP/1.1
 X-Auth-Token: rOfsYDEkAPCN5osWWpOiwOf1R7Lnd2
 Host: things.ubidots.com
 Connection: close
 Content-Type: application/json
-Content-Length: 12
+Content-Length: 60
 
-{"value":25}
+{"value":13, "context":{"lat": 4.628008, "lng":-74.090494}}
+
+GET /hola.php HTTP/1.1
+Host: dev.teubi.co
+
 
 curl -X POST -H "Content-Type: application/json" -d '{"value":14,context:{"lat": 6.1, "lng": -35.1, "status": "driving"}}' https://things.ubidots.com/api/v1.6/variables/574293b4762542576095a4ea/values/?token=rOfsYDEkAPCN5osWWpOiwOf1R7Lnd2
