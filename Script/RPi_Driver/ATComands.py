@@ -7,7 +7,7 @@ false =0;
 ERROR_PWR = "ERROR EN EJECUCION DEL GPS, NO SE ENCUENTRA ALIMENTADO";
 ERROR_SIGNAL = "ERROR EN EJECUCION DEL GPS, NO TIENE SENYAL DE SATELITES";
 ERROR_NETWORK = "ERROR EN CONEXION CON LA RED";
-
+ERROR_ANS = "ERROR LA RESPUESTA NO ES LA ESPERADA";
 
 def Send(port,str_TX,str_RX,lines):
 	# Definitions to keep the information
@@ -37,6 +37,7 @@ def Send(port,str_TX,str_RX,lines):
 			return ERROR_NETWORK;
 		elif(Check != str_RX):
 			print ("No son iguales los strings");
+			return ERROR_ANS;
 	return RX_info
 
 def KeepGPS(port):
@@ -95,7 +96,7 @@ def KeepGPS(port):
 			Lon += info[i+23];
 		elif(info[i+23]==',' and not getLat):	# finish keep Lon
 			getLon = false;
-		else:					# finish keep Lat 
+		else:									# finish keep Lat 
 			getLat = false;
 	return Date,Lat,Lon;
 

@@ -1,11 +1,4 @@
-POST /api/v1.6/variables/581ded2476254279db1c61d5/values HTTP/1.1
-X-Auth-Token: rOfsYDEkAPCN5osWWpOiwOf1R7Lnd2
-Host: things.ubidots.com
-Connection: close
-Content-Type: application/json
-Content-Length: 60
-
-{"value":13, "context":{"lat": 4.628008, "lng":-74.090494}}
+POST /api/v1.6/variables/581ded2476254279db1c61d5/values HTTP/1.1\nX-Auth-Token: rOfsYDEkAPCN5osWWpOiwOf1R7Lnd2\nHost: things.ubidots.com\nConnection: close\nContent-Type: application/json\nContent-Length: 60\n\n{"value":13, "context":{"lat": 4.628008, "lng":-74.090494}}\n\x1A
 
 GET /hola.php HTTP/1.1
 Host: dev.teubi.co
