@@ -1,1 +1,1 @@
-from ATComands import Send, KeepGPS
+from ATComands import Send, KeepGPS, ShutGSM, SendInfo

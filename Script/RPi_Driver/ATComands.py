@@ -5,7 +5,9 @@ from time import sleep
 true =1;
 false =0;
 ERROR_PWR = "ERROR EN EJECUCION DEL GPS, NO SE ENCUENTRA ALIMENTADO";
-ERROR_GPS_SIGNAL = "ERROR EN EJECUCION DEL GPS, NO TIENE SENYAL DE SATELITES";
+ERROR_SIGNAL = "ERROR EN EJECUCION DEL GPS, NO TIENE SENYAL DE SATELITES";
+ERROR_NETWORK = "ERROR EN CONEXION CON LA RED";
+
 
 def Send(port,str_TX,str_RX,lines):
 	# Definitions to keep the information
@@ -29,8 +31,12 @@ def Send(port,str_TX,str_RX,lines):
 	for i in range(sizeRX-sizestr,sizeRX):
 		Check += RX_info[i];
 
-	if(Check != str_RX):
-		print ("No son iguales los strings");
+	if(str_TX!='AT+CIFSR\n' and str_TX!='AT+CGATT=0\n'):
+		if(RX_info == "+PDP: DEACT\r\n\r\nERROR\r\n"):
+			print "Existen problemas con la read, se volvera a reiniciar el proceso";
+			return ERROR_NETWORK;
+		elif(Check != str_RX):
+			print ("No son iguales los strings");
 	return RX_info
 
 def KeepGPS(port):
@@ -86,3 +92,15 @@ def KeepGPS(port):
 		else:
 			Lon += info[i+23];
 	return Date,Lat,Lon;
+
+def ShutGSM(port):
+	Send(port,'AT+CIPSHUT\n','SHUT OK\r\n',1);
+	Send(port,'AT+CGATT=0\n','OK\r\n',3);
+
+def SendInfo(port,URL):
+	port.write('AT+CIPSEND\n');
+	port.readline();
+	port.write(URL);
+	for i in range(0,30):
+		line = port.readline();
+		print line;
