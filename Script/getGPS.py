@@ -1,13 +1,16 @@
-import serial 
+import serial
 from time import sleep
+from RPi_Driver import Send,KeepGPS
 
-ser = serial.Serial('/dev/ttyAMA0',115200);
-ser.write(b'AT\r\n');
-sleep(2);
-ser.write(b'AT+CMGF=1\r\n');
-sleep(2);
-ser.write(b'AT+CMGS="+573128464383"\r\n');
-sleep(2);
-ser.write(b"Como Erika dijo, eventualmente lo consegui, este es tu premio. Te quiero Att: Modulo de Jairo :)\r\n");
-ser.write(b'\x1A');
-sleep(2);
+ser = serial.Serial('/dev/ttyAMA0',115200,timeout=2);
+
+Send(ser,'AT\n','OK\r\n',1);
+Send(ser,'AT+CGNSPWR=1\n','OK\r\n',1);
+sleep(1);
+Send(ser,'AT+CGNSSEQ="RMC"\n','OK\r\n',1);
+# Keep information of GPS
+Date,Lon,Lat = KeepGPS(ser);
+Send(ser,'AT+CGNSPWR=0\n','OK\r\n',1);
+print Date;
+print Lon;
+print Lat;
