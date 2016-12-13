@@ -3,6 +3,13 @@ from time import sleep
 import sys
 from RPi_Driver import Send,ShutGSM
 
+def ON_Net(ser,str_TX,str_RX,line):
+	Net = Send(ser,str_TX,str_RX,line);
+	if(Net[0]=="E"):
+		print "No hay conexion a internet";
+		sys.exit(1);
+
+
 ser = serial.Serial('/dev/ttyAMA0',115200,timeout=10);
 
 # Please Turn on the module and wait some seconds to use the module
@@ -10,9 +17,10 @@ ser = serial.Serial('/dev/ttyAMA0',115200,timeout=10);
 # delay at least two minutes, please be patient. Use once to Turn ON
 # the module and then use the other programms.
 
-PWR = raw_input('Turn ON or OFF Module FONA808?'); # What do you do ? IN - OFF
+PWR = raw_input('Turn ON or OFF Module FONA808?	'); # What do you do ? IN - OFF
+PWR = int(PWR);
 
-if(PWR):
+if(PWR==1):
 	# Initial command
 	Send(ser,'AT\n','OK\r\n',1);
 	# Delete Message of Module
@@ -28,17 +36,10 @@ if(PWR):
 	# Active GPS
 	Send(ser,'AT\n','OK\r\n',1);
 	Send(ser,'AT+CGNSPWR=1\n','OK\r\n',1);
-else:
+elif(PWR==0):
 	# Desactive GSM Antenna 
 	Send(ser,'AT\n','OK\r\n',1);
 	ShutGSM(ser);
 	# Desactive GPS Antenna
 	Send(ser,'AT\n','OK\r\n',1);
 	Send(ser,'AT+CGNSPWR=0\n','OK\r\n',1);
-
-def ON_Net(ser,str_TX,str_RX,line):
-		Net = Send(ser,str_TX,str_RX,line);
-		if(Net[0]=="E"):
-			print "No hay conexion a internet";
-			sys.exit(1);
-

@@ -28,10 +28,9 @@ def Send(port,str_TX,str_RX,lines):
 	Check = '';
 	sizeRX = len(RX_info);
 	sizestr = len(str_RX);	
-	for i in range(sizeRX-sizestr,sizeRX):
-		Check += RX_info[i];
-
 	if(str_TX!='AT+CIFSR\n' and str_TX!='AT+CGATT=0\n'):
+		for i in range(sizeRX-sizestr,sizeRX):
+			Check += RX_info[i];
 		if(RX_info == "+PDP: DEACT\r\n\r\nERROR\r\n"):
 			print "Existen problemas con la read, se volvera a reiniciar el proceso";
 			return ERROR_NETWORK;
@@ -85,24 +84,30 @@ def KeepGPS(port):
 	#Keeping Latitude and Longitude
 	getLat = true;
 	getLon = true;
+	getAlt = true;
 	Lat = '';
 	Lon = '';
-	for i in range(0,21):
+	Alt = '';
+	for i in range(0,30):
 		if(info[23]==','):
 			return ERROR_SIGNAL,'\0','\0';
 		elif(info[i+23]!=',' and getLat):
 			Lat += info[i+23];
 		elif(info[i+23]!=',' and getLon):
 			Lon += info[i+23];
-		elif(info[i+23]==',' and not getLat):	# finish keep Lon
+		elif(info[i+23]!=',' and getAlt):
+			Alt += info[i+23];
+		elif(info[i+23]==',' and not getLon):
+			getAlt = false;
+		elif(info[i+23]==',' and not getLat):
 			getLon = false;
-		else:									# finish keep Lat 
+		else:		 
 			getLat = false;
-	return Date,Lat,Lon;
+	return Date,Lat,Lon,Alt;
 
 def ShutGSM(port):
 	Send(port,'AT+CIPSHUT\n','SHUT OK\r\n',1);
-	Send(port,'AT+CGATT=0\n','OK\r\n',3);
+	Send(port,'AT+CGATT=0\n','OK\r\n',4);
 
 def SendInfo(port,URL):
 	port.write('AT+CIPSEND\n');
