@@ -2,7 +2,7 @@ import sys
 import AM2302
 
 sensor = AM2302.AM2302
-pin = 4;
+pin = 23;
 
 humidity, temperature = AM2302.read_retry(sensor, pin)
 
