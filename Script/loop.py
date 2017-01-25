@@ -8,6 +8,7 @@ import datetime
 
 #pwrSIM.pwr_OFF()
 pwrSIM.pwr_ON()
+pwrSIM.Net_ON()
 while (1):
 	GPS=getGPS.write()
 	while (len(GPS)<4):
@@ -21,5 +22,5 @@ while (1):
 	Temp= '%.4f'%(Temp)
 	pwr=post.send(Date,Lon,Lat,Alt,Temp,Hum)
 	if (pwr=="pwr"):
-		pwrSIM.pwr_ON()
+		pwrSIM.Net_ON()
 	time.sleep(2)

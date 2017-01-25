@@ -1,0 +1,6208 @@
+AT
+
+OK
+
+AT+CMGD=1
+
+OK
+
+-------------->Net_ON<----------------
+AT+CIPSHUT
+
+SHUT OK
+
+AT+CGATT=0
+
+OK
+
+AT+CGATT=1
+
+No hay conexion a internet
+
+
+OK
+
+AT+CIICR
+
+ERROR
+
+No son iguales los strings
+No hay conexion a internet
+AT
+
+OK
+
+AT+CMGD=1
+
+OK
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNS

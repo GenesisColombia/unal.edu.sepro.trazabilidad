@@ -1,0 +1,4063 @@
+AT
+
+OK
+
+AT+CMGD=1
+
+OK
+
+-------------->Net_ON<----------------
+AT+CIPSHUT
+
+SHUT OK
+
+AT+CGATT=0
+
+OK
+
+AT+CGATT=1
+
+
+No son iguales los strings
+No hay conexion a internet
+OK
+
+AT+CSTT="internet.movistar.com.co","movistar","movistar"
+
+No son iguales los strings
+No hay conexion a internet
+OK
+
+AT+CIICR
+OK
+
+AT+CIFSR
+
+100.82.185.196
+
+AT
+
+OK
+
+AT+CGNSPWR=1
+
+OK
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130165445.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130165446.000,4.636543,-74.086515,2575.300,1.81,266.3,1,,0.9,1.3,0.9,,12,8,,,48,,
+
+OK
+
+info--> 1,1,20170130165446.000,4.636543,-74.086515,2575.300,1.81,266.3,1,,0.9,1.3,0.9,,12,8,,,48,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.1000,"hum":35.2000,"fuerzag":0,"fecha":"2017-01-30 11:54:46","lat":4.636543,"lng":-74.086515}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:54:53 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9372 - 2017-01-30 11:54:46"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130165505.000,4.636525,-74.086492,2575.400,0.17,193.7,1,,0.8,1.1,0.8,,12,11,,,39,,
+
+OK
+
+info--> 1,1,20170130165505.000,4.636525,-74.086492,2575.400,0.17,193.7,1,,0.8,1.1,0.8,,12,11,,,39,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.7000,"hum":32.9000,"fuerzag":0,"fecha":"2017-01-30 11:55:05","lat":4.636525,"lng":-74.086492}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:55:11 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9373 - 2017-01-30 11:55:05"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130165523.000,4.636490,-74.086517,2576.500,0.46,47.5,1,,0.7,1.0,0.8,,12,12,,,39,,
+
+OK
+
+info--> 1,1,20170130165523.000,4.636490,-74.086517,2576.500,0.46,47.5,1,,0.7,1.0,0.8,,12,12,,,39,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":21.2000,"hum":38.2000,"fuerzag":0,"fecha":"2017-01-30 11:55:23","lat":4.636490,"lng":-74.086517}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:55:29 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9374 - 2017-01-30 11:55:23"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130165541.000,4.636407,-74.086470,2573.100,3.19,171.1,1,,0.7,1.0,0.8,,12,12,,,36,,
+
+OK
+
+info--> 1,1,20170130165541.000,4.636407,-74.086470,2573.100,3.19,171.1,1,,0.7,1.0,0.8,,12,12,,,36,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":21.5000,"hum":39.5000,"fuerzag":0,"fecha":"2017-01-30 11:55:41","lat":4.636407,"lng":-74.086470}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:55:47 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9375 - 2017-01-30 11:55:41"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130165559.000,4.636218,-74.086422,2571.500,4.56,169.2,1,,0.8,1.1,0.8,,12,11,,,31,,
+
+OK
+
+info--> 1,1,20170130165559.000,4.636218,-74.086422,2571.500,4.56,169.2,1,,0.8,1.1,0.8,,12,11,,,31,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":21.2000,"hum":30.8000,"fuerzag":0,"fecha":"2017-01-30 11:55:59","lat":4.636218,"lng":-74.086422}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:56:06 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9376 - 2017-01-30 11:55:59"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130165618.000,4.636048,-74.086357,2569.600,3.06,155.4,1,,0.8,1.1,0.8,,12,11,,,37,,
+
+OK
+
+info--> 1,1,20170130165618.000,4.636048,-74.086357,2569.600,3.06,155.4,1,,0.8,1.1,0.8,,12,11,,,37,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":21.1000,"hum":30.3000,"fuerzag":0,"fecha":"2017-01-30 11:56:18","lat":4.636048,"lng":-74.086357}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:56:25 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9377 - 2017-01-30 11:56:18"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130165636.000,4.635820,-74.086277,2566.900,4.17,159.1,1,,0.8,1.2,0.8,,12,10,,,33,,
+
+OK
+
+info--> 1,1,20170130165636.000,4.635820,-74.086277,2566.900,4.17,159.1,1,,0.8,1.2,0.8,,12,10,,,33,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.4000,"hum":35.9000,"fuerzag":0,"fecha":"2017-01-30 11:56:36","lat":4.635820,"lng":-74.086277}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:56:48 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9378 - 2017-01-30 11:56:36"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130165659.000,4.635580,-74.086245,2563.800,3.13,166.2,1,,0.7,1.0,0.8,,12,12,,,35,,
+
+OK
+
+info--> 1,1,20170130165659.000,4.635580,-74.086245,2563.800,3.13,166.2,1,,0.7,1.0,0.8,,12,12,,,35,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.4000,"hum":35.9000,"fuerzag":0,"fecha":"2017-01-30 11:56:59","lat":4.635580,"lng":-74.086245}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:57:06 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9379 - 2017-01-30 11:56:59"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130165717.000,4.635412,-74.086145,2561.000,3.07,161.7,1,,0.7,1.0,0.8,,12,12,,,33,,
+
+OK
+
+info--> 1,1,20170130165717.000,4.635412,-74.086145,2561.000,3.07,161.7,1,,0.7,1.0,0.8,,12,12,,,33,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.4000,"hum":36.3000,"fuerzag":0,"fecha":"2017-01-30 11:57:17","lat":4.635412,"lng":-74.086145}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:57:24 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9380 - 2017-01-30 11:57:17"} -1
+
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130165737.000,4.635168,-74.086052,2556.400,3.32,155.2,1,,0.7,1.0,0.8,,12,12,,,36,,
+
+OK
+
+info--> 1,1,20170130165737.000,4.635168,-74.086052,2556.400,3.32,155.2,1,,0.7,1.0,0.8,,12,12,,,36,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.4000,"hum":36.5000,"fuerzag":0,"fecha":"2017-01-30 11:57:37","lat":4.635168,"lng":-74.086052}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:57:43 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9381 - 2017-01-30 11:57:37"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130165755.000,4.634925,-74.085925,2556.200,3.74,139.0,1,,0.7,1.0,0.8,,12,12,,,35,,
+
+OK
+
+info--> 1,1,20170130165755.000,4.634925,-74.085925,2556.200,3.74,139.0,1,,0.7,1.0,0.8,,12,12,,,35,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":19.9000,"hum":35.4000,"fuerzag":0,"fecha":"2017-01-30 11:57:55","lat":4.634925,"lng":-74.085925}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:58:02 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9382 - 2017-01-30 11:57:55"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130165814.000,4.634728,-74.085812,2558.900,4.07,145.7,1,,0.7,1.0,0.8,,12,12,,,37,,
+
+OK
+
+info--> 1,1,20170130165814.000,4.634728,-74.085812,2558.900,4.07,145.7,1,,0.7,1.0,0.8,,12,12,,,37,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.0000,"hum":38.4000,"fuerzag":0,"fecha":"2017-01-30 11:58:14","lat":4.634728,"lng":-74.085812}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:58:22 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9383 - 2017-01-30 11:58:14"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130165834.000,4.634533,-74.085683,2559.400,3.54,144.3,1,,0.7,1.0,0.8,,12,12,,,38,,
+
+OK
+
+info--> 1,1,20170130165834.000,4.634533,-74.085683,2559.400,3.54,144.3,1,,0.7,1.0,0.8,,12,12,,,38,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.2000,"hum":39.8000,"fuerzag":0,"fecha":"2017-01-30 11:58:34","lat":4.634533,"lng":-74.085683}
+-1
+ -1
+
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130165854.000,4.634355,-74.085555,2560.300,3.57,134.3,1,,0.7,1.0,0.8,,12,12,,,37,,
+
+OK
+
+info--> 1,1,20170130165854.000,4.634355,-74.085555,2560.300,3.57,134.3,1,,0.7,1.0,0.8,,12,12,,,37,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+No son iguales los strings
+Coneccion IP====> ERROR LA RESPUESTA NO ES LA ESPERADA <=========
+Error---> True <------
+Already---> False <-----
+ERROR
+-1
+POST /ords/sepro/tracking/ HTTP/1.0Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090Content-Type: application/jsonContent-Length: 126{"token":123,"ruta":43,"temp":20.2000,"hum":39.7000,"fuerzag":0,"fecha":"2017-01-30 11:58:54","lat":4.634355,"lng":-74.085555}
+-1
+SIM808 R14.18
+-1
+
+-1
+ERROR
+-1
+ -1
+ -1
+
+-1
+CONNECT OK
+-1
+ -1
+
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130165929.000,4.634038,-74.085272,2557.700,3.48,121.4,1,,0.7,1.0,0.8,,12,12,,,33,,
+
+OK
+
+info--> 1,1,20170130165929.000,4.634038,-74.085272,2557.700,3.48,121.4,1,,0.7,1.0,0.8,,12,12,,,33,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.4000,"hum":40.7000,"fuerzag":0,"fecha":"2017-01-30 11:59:29","lat":4.634038,"lng":-74.085272}
+-1
+ -1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:59:37 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9384 - 2017-01-30 11:59:29"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130165952.000,4.633873,-74.085108,2558.600,2.96,136.0,1,,0.7,1.0,0.7,,12,12,,,37,,
+
+OK
+
+info--> 1,1,20170130165952.000,4.633873,-74.085108,2558.600,2.96,136.0,1,,0.7,1.0,0.7,,12,12,,,37,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.2000,"hum":36.5000,"fuerzag":0,"fecha":"2017-01-30 11:59:52","lat":4.633873,"lng":-74.085108}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:59:59 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9385 - 2017-01-30 11:59:52"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130170011.000,4.633673,-74.084903,2559.300,4.59,120.1,1,,0.7,1.0,0.7,,12,12,,,37,,
+
+OK
+
+info--> 1,1,20170130170011.000,4.633673,-74.084903,2559.300,4.59,120.1,1,,0.7,1.0,0.7,,12,12,,,37,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.0000,"hum":37.5000,"fuerzag":0,"fecha":"2017-01-30 12:00:11","lat":4.633673,"lng":-74.084903}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 17:00:18 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9386 - 2017-01-30 12:00:11"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130170030.000,4.633532,-74.084693,2561.000,5.02,110.7,1,,0.7,1.0,0.7,,12,12,,,32,,
+
+OK
+
+info--> 1,1,20170130170030.000,4.633532,-74.084693,2561.000,5.02,110.7,1,,0.7,1.0,0.7,,12,12,,,32,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.0000,"hum":38.5000,"fuerzag":0,"fecha":"2017-01-30 12:00:30","lat":4.633532,"lng":-74.084693}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 17:00:38 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9387 - 2017-01-30 12:00:30"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130170051.000,4.633378,-74.084477,2565.900,3.24,106.6,1,,0.7,1.0,0.7,,12,12,,,39,,
+
+OK
+
+info--> 1,1,20170130170051.000,4.633378,-74.084477,2565.900,3.24,106.6,1,,0.7,1.0,0.7,,12,12,,,39,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.2000,"hum":40.1000,"fuerzag":0,"fecha":"2017-01-30 12:00:51","lat":4.633378,"lng":-74.084477}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 17:00:57 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9388 - 2017-01-30 12:00:51"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130170110.000,4.633308,-74.084295,2564.800,3.94,108.5,1,,0.7,1.0,0.7,,12,12,,,36,,
+
+OK
+
+info--> 1,1,20170130170110.000,4.633308,-74.084295,2564.800,3.94,108.5,1,,0.7,1.0,0.7,,12,12,,,36,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":19.8000,"hum":37.3000,"fuerzag":0,"fecha":"2017-01-30 12:01:10","lat":4.633308,"lng":-74.084295}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 17:01:16 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9389 - 2017-01-30 12:01:10"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130170128.000,4.633200,-74.084095,2565.400,4.74,121.5,1,,0.7,1.0,0.7,,12,12,,,39,,
+
+OK
+
+info--> 1,1,20170130170128.000,4.633200,-74.084095,2565.400,4.74,121.5,1,,0.7,1.0,0.7,,12,12,,,39,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":19.9000,"hum":38.5000,"fuerzag":0,"fecha":"2017-01-30 12:01:28","lat":4.633200,"lng":-74.084095}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 17:01:35 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9390 - 2017-01-30 12:01:28"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130170147.000,4.633122,-74.083872,2567.500,4.98,108.1,1,,0.7,1.0,0.7,,12,12,,,38,,
+
+OK
+
+info--> 1,1,20170130170147.000,4.633122,-74.083872,2567.500,4.98,108.1,1,,0.7,1.0,0.7,,12,12,,,38,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":19.9000,"hum":38.2000,"fuerzag":0,"fecha":"2017-01-30 12:01:47","lat":4.633122,"lng":-74.083872}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 17:01:54 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9391 - 2017-01-30 12:01:47"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130170206.000,4.633248,-74.083757,2570.700,3.28,31.0,1,,0.7,1.0,0.7,,12,12,,,36,,
+
+OK
+
+info--> 1,1,20170130170206.000,4.633248,-74.083757,2570.700,3.28,31.0,1,,0.7,1.0,0.7,,12,12,,,36,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.0000,"hum":39.6000,"fuerzag":0,"fecha":"2017-01-30 12:02:06","lat":4.633248,"lng":-74.083757}
+-1
+ -1
+
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130170225.000,4.633355,-74.083655,2571.100,0.61,46.9,1,,0.8,1.1,0.8,,12,11,,,35,,
+
+OK
+
+info--> 1,1,20170130170225.000,4.633355,-74.083655,2571.100,0.61,46.9,1,,0.8,1.1,0.8,,12,11,,,35,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.1000,"hum":42.3000,"fuerzag":0,"fecha":"2017-01-30 12:02:25","lat":4.633355,"lng":-74.083655}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 17:02:34 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9392 - 2017-01-30 12:02:25"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130170245.000,4.633360,-74.083658,2571.000,0.37,21.4,1,,0.8,1.1,0.8,,12,11,,,40,,
+
+OK
+
+info--> 1,1,20170130170245.000,4.633360,-74.083658,2571.000,0.37,21.4,1,,0.8,1.1,0.8,,12,11,,,40,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.5000,"hum":39.1000,"fuerzag":0,"fecha":"2017-01-30 12:02:45","lat":4.633360,"lng":-74.083658}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 17:02:55 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9393 - 2017-01-30 12:02:45"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130170306.000,4.633360,-74.083647,2571.200,0.78,84.7,1,,0.8,1.1,0.8,,12,11,,,36,,
+
+OK
+
+info--> 1,1,20170130170306.000,4.633360,-74.083647,2571.200,0.78,84.7,1,,0.8,1.1,0.8,,12,11,,,36,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.5000,"hum":38.6000,"fuerzag":0,"fecha":"2017-01-30 12:03:06","lat":4.633360,"lng":-74.083647}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 17:03:13 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9394 - 2017-01-30 12:03:06"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130170310.000,4.633363,-74.083642,2571.200,0.56,1.9,1,,0.8,1.5,1.3,,12,11,,,36,,
+
+OK
+
+info--> 1,1,20170130170310.000,4.633363,-74.083642,2571.200,0.56,1.9,1,,0.8,1.5,1.3,,12,11,,,36,,<-- 90
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.9000,"hum":43.1000,"fuerzag":0,"fecha":"2017-01-30 12:03:10","lat":4.633363,"lng":-74.083642}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 17:03:31 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9395 - 2017-01-30 12:03:10"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130170342.000,4.633372,-74.083642,2571.300,0.11,137.1,1,,0.8,1.1,0.8,,12,11,,,39,,
+
+OK
+
+info--> 1,1,20170130170342.000,4.633372,-74.083642,2571.300,0.11,137.1,1,,0.8,1.1,0.8,,12,11,,,39,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":21.2000,"hum":44.7000,"fuerzag":0,"fecha":"2017-01-30 12:03:42","lat":4.633372,"lng":-74.083642}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 17:03:51 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9396 - 2017-01-30 12:03:42"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130170403.000,4.633362,-74.083682,2572.000,3.13,263.7,1,,0.8,1.1,0.8,,12,11,,,38,,
+
+OK
+
+info--> 1,1,20170130170403.000,4.633362,-74.083682,2572.000,3.13,263.7,1,,0.8,1.1,0.8,,12,11,,,38,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":21.3000,"hum":42.6000,"fuerzag":0,"fecha":"2017-01-30 12:04:03","lat":4.633362,"lng":-74.083682}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 17:04:09 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9397 - 2017-01-30 12:04:03"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130170421.000,4.633387,-74.083850,2572.700,2.82,313.0,1,,0.8,1.1,0.8,,12,11,,,32,,
+
+OK
+
+info--> 1,1,20170130170421.000,4.633387,-74.083850,2572.700,2.82,313.0,1,,0.8,1.1,0.8,,12,11,,,32,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":21.2000,"hum":39.2000,"fuerzag":0,"fecha":"2017-01-30 12:04:21","lat":4.633387,"lng":-74.083850}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 17:04:27 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9398 - 2017-01-30 12:04:21"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130170439.000,4.633447,-74.083957,2572.600,1.35,319.6,1,,0.8,1.1,0.8,,12,11,,,19,,
+
+OK
+
+info--> 1,1,20170130170439.000,4.633447,-74.083957,2572.600,1.35,319.6,1,,0.8,1.1,0.8,,12,11,,,19,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+
+No son iguales los strings
+Coneccion IP====> ERROR LA RESPUESTA NO ES LA ESPERADA <=========
+Error---> True <------
+Already---> False <-----
+AT+CIPSENDPOST /ords/sepro/tracking/ HTTP/1.0Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090Content-Type: application/jsonContent-Length: 126{"token":123,"ruta":43,"temp":21.1000,"hum":36.8000,"fuerzag":0,"fecha":"2017-01-30 12:04:39","lat":4.633447,"lng":-74.083957}
+-1
+> 
+-1
+SIM808 R14.18
+-1
+
+-1
+ERROR
+-1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+AT+CIPCLOSE
+
+
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+AT+CGNSINF
+
+
+info-->  <-- 0
+GPS Len: 3
+AT
+
+
+AT+CGNSSEQ="RMC"
+
+
+
+No son iguales los strings
+ERROR
+
+AT+CGNSINF
++CGNSINF: 1,1,20170130171414.000,4.633542,-74.083900,2574.100,0.96,21.5,1,,0.9,1.2,0.8,,12,10,,,25,,
+
+
+No son iguales los strings
+OK
+
+AT
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130171416.000,4.633547,-74.083900,2574.000,1.06,24.7,1,,0.9,1.2,0.8,,12,10,,,25,,
+
+OK
+
+info--> 1,1,20170130171416.000,4.633547,-74.083900,2574.000,1.06,24.7,1,,0.9,1.2,0.8,,12,10,,,25,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+ERROR
+
+ALREADY CONNECT
+
+No son iguales los strings
+Coneccion IP====> ERROR LA RESPUESTA NO ES LA ESPERADA <=========
+Error---> True <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.8000,"hum":40.4000,"fuerzag":0,"fecha":"2017-01-30 12:14:16","lat":4.633547,"lng":-74.083900}
+-1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+
+-1
++PDP: DEACT
+-1
+AT
+
+OK
+
+AT+CMGD=1
+
+OK
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130171507.000,4.633540,-74.083898,2573.700,0.85,340.9,1,,1.0,1.7,1.4,,11,9,,,29,,
+
+OK
+
+info--> 1,1,20170130171507.000,4.633540,-74.083898,2573.700,0.85,340.9,1,,1.0,1.7,1.4,,11,9,,,29,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+ERROR
+
+No son iguales los strings
+Coneccion IP====> ERROR LA RESPUESTA NO ES LA ESPERADA <=========
+Error---> True <------
+Already---> False <-----
+ERROR
+-1
+POST /ords/sepro/tracking/ HTTP/1.0Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090Content-Type: application/jsonContent-Length: 126{"token":123,"ruta":43,"temp":20.9000,"hum":48.4000,"fuerzag":0,"fecha":"2017-01-30 12:15:07","lat":4.633540,"lng":-74.083898} -1
+ -1
+
+-1
+SIM808 R14.18
+-1
+
+-1
+ERROR
+-1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130171709.000,4.633547,-74.083907,2578.300,2.33,61.8,1,,0.9,1.2,0.8,,11,9,,,21,,
+
+OK
+
+info--> 1,1,20170130171709.000,4.633547,-74.083907,2578.300,2.33,61.8,1,,0.9,1.2,0.8,,11,9,,,21,,<-- 90
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+ERROR
+
+No son iguales los strings
+Coneccion IP====> ERROR LA RESPUESTA NO ES LA ESPERADA <=========
+Error---> True <------
+Already---> False <-----
+ERROR
+-1
+POST /ords/sepro/tracking/ HTTP/1.0Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090Content-Type: application/jsonContent-Length: 126{"token":123,"ruta":43,"temp":20.8000,"hum":47.3000,"fuerzag":0,"fecha":"2017-01-30 12:17:09","lat":4.633547,"lng":-74.083907} -1
+
+-1
+SIM808 R14.18
+-1
+
+-1
+ERROR
+-1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130171912.000,4.633492,-74.084223,2580.300,2.89,231.2,1,,0.9,1.2,0.8,,11,10,,,30,,
+
+OK
+
+info--> 1,1,20170130171912.000,4.633492,-74.084223,2580.300,2.89,231.2,1,,0.9,1.2,0.8,,11,10,,,30,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+ERROR
+
+No son iguales los strings
+Coneccion IP====> ERROR LA RESPUESTA NO ES LA ESPERADA <=========
+Error---> True <------
+Already---> False <-----
+ERROR
+-1
+POST /ords/sepro/tracking/ HTTP/1.0Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090Content-Type: application/jsonContent-Length: 126{"token":123,"ruta":43,"temp":20.9000,"hum":47.7000,"fuerzag":0,"fecha":"2017-01-30 12:19:12","lat":4.633492,"lng":-74.084223} -1
+
+-1
+SIM808 R14.18
+-1
+
+-1
+ERROR
+-1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130172116.000,4.633435,-74.083893,2582.000,0.93,232.9,1,,1.1,1.4,0.8,,11,8,,,24,,
+
+OK
+
+info--> 1,1,20170130172116.000,4.633435,-74.083893,2582.000,0.93,232.9,1,,1.1,1.4,0.8,,11,8,,,24,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+ERROR
+
+No son iguales los strings
+Coneccion IP====> ERROR LA RESPUESTA NO ES LA ESPERADA <=========
+Error---> True <------
+Already---> False <-----
+ERROR
+-1
+POST /ords/sepro/tracking/ HTTP/1.0Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090Content-Type: application/jsonContent-Length: 126{"token":123,"ruta":43,"temp":20.9000,"hum":47.5000,"fuerzag":0,"fecha":"2017-01-30 12:21:16","lat":4.633435,"lng":-74.083893}
+-1
+SIM808 R14.18
+-1
+
+-1
+ERROR
+-1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130172318.000,4.633345,-74.083920,2575.000,1.76,300.2,1,,0.8,1.1,0.8,,11,11,,,24,,
+
+OK
+
+info--> 1,1,20170130172318.000,4.633345,-74.083920,2575.000,1.76,300.2,1,,0.8,1.1,0.8,,11,11,,,24,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+ERROR
+
+No son iguales los strings
+Coneccion IP====> ERROR LA RESPUESTA NO ES LA ESPERADA <=========
+Error---> True <------
+Already---> False <-----
+ERROR
+-1
+POST /ords/sepro/tracking/ HTTP/1.0Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090Content-Type: application/jsonContent-Length: 126{"token":123,"ruta":43,"temp":20.8000,"hum":47.2000,"fuerzag":0,"fecha":"2017-01-30 12:23:18","lat":4.633345,"lng":-74.083920}
+-1
+SIM808 R14.18
+-1
+
+-1
+ERROR
+-1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130172519.000,4.633512,-74.084008,2591.100,1.30,341.6,1,,0.9,1.2,0.8,,11,10,,,22,,
+
+OK
+
+info--> 1,1,20170130172519.000,4.633512,-74.084008,2591.100,1.30,341.6,1,,0.9,1.2,0.8,,11,10,,,22,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+ERROR
+
+No son iguales los strings
+Coneccion IP====> ERROR LA RESPUESTA NO ES LA ESPERADA <=========
+Error---> True <------
+Already---> False <-----
+ERROR
+-1
+POST /ords/sepro/tracking/ HTTP/1.0Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090Content-Type: application/jsonContent-Length: 126{"token":123,"ruta":43,"temp":20.8000,"hum":45.1000,"fuerzag":0,"fecha":"2017-01-30 12:25:19","lat":4.633512,"lng":-74.084008}
+-1
+SIM808 R14.18
+-1
+
+-1
+ERROR
+-1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130172722.000,4.633508,-74.083940,2591.600,1.06,45.6,1,,0.9,1.2,0.8,,11,8,,,21,,
+
+OK
+
+info--> 1,1,20170130172722.000,4.633508,-74.083940,2591.600,1.06,45.6,1,,0.9,1.2,0.8,,11,8,,,21,,<-- 90
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+ERROR
+
+No son iguales los strings
+Coneccion IP====> ERROR LA RESPUESTA NO ES LA ESPERADA <=========
+Error---> True <------
+Already---> False <-----
+ERROR
+-1
+POST /ords/sepro/tracking/ HTTP/1.0Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090Content-Type: application/jsonContent-Length: 126{"token":123,"ruta":43,"temp":20.8000,"hum":46.9000,"fuerzag":0,"fecha":"2017-01-30 12:27:22","lat":4.633508,"lng":-74.083940} -1
+
+-1
+SIM808 R14.18
+-1
+
+-1
+ERROR
+-1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130172924.000,4.633470,-74.083822,2595.200,1.31,293.4,1,,0.9,1.2,0.8,,11,9,,,25,,
+
+OK
+
+info--> 1,1,20170130172924.000,4.633470,-74.083822,2595.200,1.31,293.4,1,,0.9,1.2,0.8,,11,9,,,25,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+ERROR
+
+No son iguales los strings
+Coneccion IP====> ERROR LA RESPUESTA NO ES LA ESPERADA <=========
+Error---> True <------
+Already---> False <-----
+ERROR
+-1
+POST /ords/sepro/tracking/ HTTP/1.0Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090Content-Type: application/jsonContent-Length: 126{"token":123,"ruta":43,"temp":20.8000,"hum":46.5000,"fuerzag":0,"fecha":"2017-01-30 12:29:24","lat":4.633470,"lng":-74.083822}
+-1
+SIM808 R14.18
+-1
+
+-1
+ERROR
+-1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130173128.000,4.633467,-74.083880,2593.700,2.96,154.3,1,,0.8,1.1,0.8,,11,10,,,21,,
+
+OK
+
+info--> 1,1,20170130173128.000,4.633467,-74.083880,2593.700,2.96,154.3,1,,0.8,1.1,0.8,,11,10,,,21,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+ERROR
+
+No son iguales los strings
+Coneccion IP====> ERROR LA RESPUESTA NO ES LA ESPERADA <=========
+Error---> True <------
+Already---> False <-----
+ERROR
+-1
+POST /ords/sepro/tracking/ HTTP/1.0Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090Content-Type: application/jsonContent-Length: 126{"token":123,"ruta":43,"temp":20.8000,"hum":46.1000,"fuerzag":0,"fecha":"2017-01-30 12:31:28","lat":4.633467,"lng":-74.083880} -1
+
+-1
+SIM808 R14.18
+-1
+
+-1
+ERROR
+-1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130173328.000,4.633437,-74.084057,2587.100,0.26,279.7,1,,0.9,1.2,0.8,,11,9,,,30,,
+
+OK
+
+info--> 1,1,20170130173328.000,4.633437,-74.084057,2587.100,0.26,279.7,1,,0.9,1.2,0.8,,11,9,,,30,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+ERROR
+
+No son iguales los strings
+Coneccion IP====> ERROR LA RESPUESTA NO ES LA ESPERADA <=========
+Error---> True <------
+Already---> False <-----
+ERROR
+-1
+POST /ords/sepro/tracking/ HTTP/1.0Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090Content-Type: application/jsonContent-Length: 126{"token":123,"ruta":43,"temp":20.8000,"hum":54.7000,"fuerzag":0,"fecha":"2017-01-30 12:33:28","lat":4.633437,"lng":-74.084057}
+-1
+SIM808 R14.18
+-1
+
+-1
+ERROR
+-1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130173530.000,4.633445,-74.084053,2583.600,0.72,219.9,1,,0.9,1.2,0.8,,11,10,,,32,,
+
+OK
+
+info--> 1,1,20170130173530.000,4.633445,-74.084053,2583.600,0.72,219.9,1,,0.9,1.2,0.8,,11,10,,,32,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+ERROR
+
+No son iguales los strings
+Coneccion IP====> ERROR LA RESPUESTA NO ES LA ESPERADA <=========
+Error---> True <------
+Already---> False <-----
+ERROR
+-1
+POST /ords/sepro/tracking/ HTTP/1.0Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090Content-Type: application/jsonContent-Length: 126{"token":123,"ruta":43,"temp":20.9000,"hum":46.3000,"fuerzag":0,"fecha":"2017-01-30 12:35:30","lat":4.633445,"lng":-74.084053}
+-1
+SIM808 R14.18
+-1
+
+-1
+ERROR
+-1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130173732.000,4.633442,-74.083915,2587.100,0.44,69.9,1,,0.9,1.6,1.4,,11,10,,,32,,
+
+OK
+
+info--> 1,1,20170130173732.000,4.633442,-74.083915,2587.100,0.44,69.9,1,,0.9,1.6,1.4,,11,10,,,32,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+ERROR
+
+No son iguales los strings
+Coneccion IP====> ERROR LA RESPUESTA NO ES LA ESPERADA <=========
+Error---> True <------
+Already---> False <-----
+ERROR
+-1
+POST /ords/sepro/tracking/ HTTP/1.0Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090Content-Type: application/jsonContent-Length: 126{"token":123,"ruta":43,"temp":20.8000,"hum":48.1000,"fuerzag":0,"fecha":"2017-01-30 12:37:32","lat":4.633442,"lng":-74.083915}
+-1
+SIM808 R14.18
+-1
+
+-1
+ERROR
+-1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1

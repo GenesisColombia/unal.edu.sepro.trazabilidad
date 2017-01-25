@@ -137,5 +137,5 @@ def SendInfo(port,URL):
 		if (line.find("CLOSED")!=-1):
 			print "Breack, conn closed"
 			break
-		if (line.find("DEACT")!=-1):
+		if (line.find("DEACT")!=-1 or line.find("R14.18")!=-1):
 			return "pwr"

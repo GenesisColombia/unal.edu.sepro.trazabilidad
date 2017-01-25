@@ -1,0 +1,8507 @@
+AT
+
+OK
+
+AT+CMGD=1
+
+OK
+
+-------------->Net_ON<----------------
+AT+CIPSHUT
+
+SHUT OK
+
+AT+CGATT=0
+
+OK
+
+AT+CGATT=1
+
+
+No son iguales los strings
+No hay conexion a internet
+OK
+
+AT+CSTT="internet.movistar.com.co","movistar","movistar"
+
+No son iguales los strings
+No hay conexion a internet
+OK
+
+AT+CIICR
+OK
+
+AT+CIFSR
+
+100.113.116.2
+
+AT
+
+OK
+
+AT+CGNSPWR=1
+
+OK
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,
+
+OK
+
+info--> 1,0,20170130161405.000,,,,0.00,0.0,0,,,,,,12,0,,,,,<-- 52
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130161406.000,4.633312,-74.083812,2568.600,1.09,185.2,1,,0.9,1.3,0.9,,12,7,,,37,,
+
+OK
+
+info--> 1,1,20170130161406.000,4.633312,-74.083812,2568.600,1.09,185.2,1,,0.9,1.3,0.9,,12,7,,,37,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":19.5000,"hum":46.0000,"fuerzag":0,"fecha":"2017-01-30 11:14:06","lat":4.633312,"lng":-74.083812}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:14:14 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9304 - 2017-01-30 11:14:06"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130161426.000,4.633333,-74.083868,2577.900,0.31,13.9,1,,0.9,1.2,0.9,,12,9,,,35,,
+
+OK
+
+info--> 1,1,20170130161426.000,4.633333,-74.083868,2577.900,0.31,13.9,1,,0.9,1.2,0.9,,12,9,,,35,,<-- 90
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.6000,"hum":45.1000,"fuerzag":0,"fecha":"2017-01-30 11:14:26","lat":4.633333,"lng":-74.083868}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:14:32 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9305 - 2017-01-30 11:14:26"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130161444.000,4.633343,-74.083893,2572.100,0.26,98.9,1,,0.9,1.2,0.9,,12,9,,,35,,
+
+OK
+
+info--> 1,1,20170130161444.000,4.633343,-74.083893,2572.100,0.26,98.9,1,,0.9,1.2,0.9,,12,9,,,35,,<-- 90
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.8000,"hum":43.2000,"fuerzag":0,"fecha":"2017-01-30 11:14:44","lat":4.633343,"lng":-74.083893}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:14:50 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9306 - 2017-01-30 11:14:44"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130161502.000,4.633333,-74.083875,2566.100,1.35,165.3,1,,0.9,1.3,0.9,,12,8,,,20,,
+
+OK
+
+info--> 1,1,20170130161502.000,4.633333,-74.083875,2566.100,1.35,165.3,1,,0.9,1.3,0.9,,12,8,,,20,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.8000,"hum":42.6000,"fuerzag":0,"fecha":"2017-01-30 11:15:02","lat":4.633333,"lng":-74.083875}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:15:09 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9307 - 2017-01-30 11:15:02"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130161520.000,4.633222,-74.083768,2558.600,3.04,173.6,1,,1.2,1.5,0.9,,12,6,,,17,,
+
+OK
+
+info--> 1,1,20170130161520.000,4.633222,-74.083768,2558.600,3.04,173.6,1,,1.2,1.5,0.9,,12,6,,,17,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.6000,"hum":41.0000,"fuerzag":0,"fecha":"2017-01-30 11:15:20","lat":4.633222,"lng":-74.083768}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:15:27 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9308 - 2017-01-30 11:15:20"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130161539.000,4.633073,-74.083687,2553.000,3.91,141.6,1,,0.8,1.2,0.9,,12,10,,,29,,
+
+OK
+
+info--> 1,1,20170130161539.000,4.633073,-74.083687,2553.000,3.91,141.6,1,,0.8,1.2,0.9,,12,10,,,29,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.4000,"hum":40.8000,"fuerzag":0,"fecha":"2017-01-30 11:15:39","lat":4.633073,"lng":-74.083687}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:15:46 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9309 - 2017-01-30 11:15:39"} -1
+
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130161559.000,4.632968,-74.083447,2547.200,4.06,107.5,1,,0.8,1.2,0.9,,12,10,,,32,,
+
+OK
+
+info--> 1,1,20170130161559.000,4.632968,-74.083447,2547.200,4.06,107.5,1,,0.8,1.2,0.9,,12,10,,,32,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":20.1000,"hum":41.5000,"fuerzag":0,"fecha":"2017-01-30 11:15:59","lat":4.632968,"lng":-74.083447}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:16:06 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9310 - 2017-01-30 11:15:59"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130161618.000,4.632903,-74.083262,2542.100,6.39,84.6,1,,0.8,1.2,0.9,,12,10,,,39,,
+
+OK
+
+info--> 1,1,20170130161618.000,4.632903,-74.083262,2542.100,6.39,84.6,1,,0.8,1.2,0.9,,12,10,,,39,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":19.8000,"hum":40.8000,"fuerzag":0,"fecha":"2017-01-30 11:16:18","lat":4.632903,"lng":-74.083262}
+-1
+ -1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:16:24 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9311 - 2017-01-30 11:16:18"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130161642.000,4.632875,-74.083038,2538.200,5.15,70.1,1,,0.8,1.2,0.9,,12,10,,,33,,
+
+OK
+
+info--> 1,1,20170130161642.000,4.632875,-74.083038,2538.200,5.15,70.1,1,,0.8,1.2,0.9,,12,10,,,33,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":19.7000,"hum":41.3000,"fuerzag":0,"fecha":"2017-01-30 11:16:42","lat":4.632875,"lng":-74.083038}
+-1
+ -1
+
+-1
+SEND OK
+-1
+ -1
+ -1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:16:49 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9312 - 2017-01-30 11:16:42"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130161714.000,4.633052,-74.082660,2547.800,4.24,63.3,1,,0.8,1.2,0.9,,12,10,,,26,,
+
+OK
+
+info--> 1,1,20170130161714.000,4.633052,-74.082660,2547.800,4.24,63.3,1,,0.8,1.2,0.9,,12,10,,,26,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":19.7000,"hum":41.8000,"fuerzag":0,"fecha":"2017-01-30 11:17:14","lat":4.633052,"lng":-74.082660}
+-1
+
+-1
+SEND OK
+-1
+ -1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:17:23 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9313 - 2017-01-30 11:17:14"} -1
+
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130161740.000,4.633162,-74.082440,2556.300,4.26,75.4,1,,1.1,1.5,0.9,,12,7,,,20,,
+
+OK
+
+info--> 1,1,20170130161740.000,4.633162,-74.082440,2556.300,4.26,75.4,1,,1.1,1.5,0.9,,12,7,,,20,,<-- 90
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+No son iguales los strings
+Coneccion IP====> ERROR LA RESPUESTA NO ES LA ESPERADA <=========
+Error---> True <------
+Already---> False <-----
+ERROR
+-1
+POST /ords/sepro/tracking/ HTTP/1.0Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090Content-Type: application/jsonContent-Length: 126{"token":123,"ruta":43,"temp":27.0000,"hum":99.9000,"fuerzag":0,"fecha":"2017-01-30 11:17:40","lat":4.633162,"lng":-74.082440}
+-1
+SIM808 R14.18
+-1
+
+-1
+ERROR
+-1
+ -1
+ -1
+
+-1
+CONNECT OK
+-1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130161846.000,4.633572,-74.081702,2575.200,4.33,66.8,1,,0.8,1.2,0.9,,12,10,,,44,,
+
+OK
+
+info--> 1,1,20170130161846.000,4.633572,-74.081702,2575.200,4.33,66.8,1,,0.8,1.2,0.9,,12,10,,,44,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":23.5000,"hum":99.9000,"fuerzag":0,"fecha":"2017-01-30 11:18:46","lat":4.633572,"lng":-74.081702}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:18:52 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9314 - 2017-01-30 11:18:46"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130161904.000,4.633665,-74.081538,2577.400,4.48,42.7,1,,0.7,1.1,0.8,,12,11,,,41,,
+
+OK
+
+info--> 1,1,20170130161904.000,4.633665,-74.081538,2577.400,4.48,42.7,1,,0.7,1.1,0.8,,12,11,,,41,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":19.1000,"hum":99.9000,"fuerzag":0,"fecha":"2017-01-30 11:19:04","lat":4.633665,"lng":-74.081538}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:19:12 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9315 - 2017-01-30 11:19:04"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130161924.000,4.633780,-74.081363,2580.200,3.85,48.3,1,,0.7,1.1,0.8,,12,11,,,41,,
+
+OK
+
+info--> 1,1,20170130161924.000,4.633780,-74.081363,2580.200,3.85,48.3,1,,0.7,1.1,0.8,,12,11,,,41,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":18.8000,"hum":99.9000,"fuerzag":0,"fecha":"2017-01-30 11:19:24","lat":4.633780,"lng":-74.081363}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:19:31 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9316 - 2017-01-30 11:19:24"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130161944.000,4.633887,-74.081167,2581.800,6.24,28.0,1,,0.7,1.1,0.8,,12,11,,,40,,
+
+OK
+
+info--> 1,1,20170130161944.000,4.633887,-74.081167,2581.800,6.24,28.0,1,,0.7,1.1,0.8,,12,11,,,40,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":18.6000,"hum":99.9000,"fuerzag":0,"fecha":"2017-01-30 11:19:44","lat":4.633887,"lng":-74.081167}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:19:52 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9317 - 2017-01-30 11:19:44"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162004.000,4.634020,-74.080952,2584.300,5.37,52.4,1,,0.8,1.2,0.9,,12,9,,,39,,
+
+OK
+
+info--> 1,1,20170130162004.000,4.634020,-74.080952,2584.300,5.37,52.4,1,,0.8,1.2,0.9,,12,9,,,39,,<-- 90
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":18.6000,"hum":99.9000,"fuerzag":0,"fecha":"2017-01-30 11:20:04","lat":4.634020,"lng":-74.080952}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:20:10 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9318 - 2017-01-30 11:20:04"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162022.000,4.634140,-74.080763,2584.800,5.22,53.0,1,,0.7,1.1,0.8,,12,11,,,36,,
+
+OK
+
+info--> 1,1,20170130162022.000,4.634140,-74.080763,2584.800,5.22,53.0,1,,0.7,1.1,0.8,,12,11,,,36,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":18.7000,"hum":90.4000,"fuerzag":0,"fecha":"2017-01-30 11:20:22","lat":4.634140,"lng":-74.080763}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:20:29 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9319 - 2017-01-30 11:20:22"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162040.000,4.634278,-74.080593,2586.600,4.72,35.8,1,,0.7,1.1,0.8,,12,11,,,38,,
+
+OK
+
+info--> 1,1,20170130162040.000,4.634278,-74.080593,2586.600,4.72,35.8,1,,0.7,1.1,0.8,,12,11,,,38,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":18.9000,"hum":59.7000,"fuerzag":0,"fecha":"2017-01-30 11:20:40","lat":4.634278,"lng":-74.080593}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:20:47 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9320 - 2017-01-30 11:20:40"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162058.000,4.634480,-74.080488,2587.400,5.35,21.2,1,,0.7,1.7,1.6,,12,11,,,37,,
+
+OK
+
+info--> 1,1,20170130162058.000,4.634480,-74.080488,2587.400,5.35,21.2,1,,0.7,1.7,1.6,,12,11,,,37,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":19.0000,"hum":54.0000,"fuerzag":0,"fecha":"2017-01-30 11:20:58","lat":4.634480,"lng":-74.080488}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:21:05 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9321 - 2017-01-30 11:20:58"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162116.000,4.634688,-74.080428,2585.800,3.93,6.6,1,,0.7,1.7,1.6,,12,11,,,38,,
+
+OK
+
+info--> 1,1,20170130162116.000,4.634688,-74.080428,2585.800,3.93,6.6,1,,0.7,1.7,1.6,,12,11,,,38,,<-- 90
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":19.0000,"hum":52.9000,"fuerzag":0,"fecha":"2017-01-30 11:21:16","lat":4.634688,"lng":-74.080428}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:21:23 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9322 - 2017-01-30 11:21:16"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162134.000,4.634872,-74.080373,2579.800,4.96,15.4,1,,0.7,1.7,1.6,,12,11,,,36,,
+
+OK
+
+info--> 1,1,20170130162134.000,4.634872,-74.080373,2579.800,4.96,15.4,1,,0.7,1.7,1.6,,12,11,,,36,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":19.0000,"hum":50.3000,"fuerzag":0,"fecha":"2017-01-30 11:21:34","lat":4.634872,"lng":-74.080373}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:21:41 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9323 - 2017-01-30 11:21:34"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162152.000,4.635028,-74.080333,2577.400,0.35,278.3,1,,0.8,1.2,0.9,,12,10,,,40,,
+
+OK
+
+info--> 1,1,20170130162152.000,4.635028,-74.080333,2577.400,0.35,278.3,1,,0.8,1.2,0.9,,12,10,,,40,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":19.0000,"hum":47.5000,"fuerzag":0,"fecha":"2017-01-30 11:21:52","lat":4.635028,"lng":-74.080333}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:22:00 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9324 - 2017-01-30 11:21:52"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162211.000,4.635030,-74.080338,2577.200,0.37,313.5,1,,0.7,1.1,0.8,,12,11,,,40,,
+
+OK
+
+info--> 1,1,20170130162211.000,4.635030,-74.080338,2577.200,0.37,313.5,1,,0.7,1.1,0.8,,12,11,,,40,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":19.0000,"hum":47.5000,"fuerzag":0,"fecha":"2017-01-30 11:22:11","lat":4.635030,"lng":-74.080338}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:22:18 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9325 - 2017-01-30 11:22:11"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162229.000,4.635213,-74.080268,2577.600,4.17,16.5,1,,0.7,1.7,1.5,,12,11,,,23,,
+
+OK
+
+info--> 1,1,20170130162229.000,4.635213,-74.080268,2577.600,4.17,16.5,1,,0.7,1.7,1.5,,12,11,,,23,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":19.1000,"hum":47.6000,"fuerzag":0,"fecha":"2017-01-30 11:22:29","lat":4.635213,"lng":-74.080268}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:22:36 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9326 - 2017-01-30 11:22:29"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162247.000,4.635425,-74.080163,2576.900,7.83,18.3,1,,0.7,1.1,0.8,,12,11,,,30,,
+
+OK
+
+info--> 1,1,20170130162247.000,4.635425,-74.080163,2576.900,7.83,18.3,1,,0.7,1.1,0.8,,12,11,,,30,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":19.2000,"hum":48.2000,"fuerzag":0,"fecha":"2017-01-30 11:22:47","lat":4.635425,"lng":-74.080163}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:22:54 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9327 - 2017-01-30 11:22:47"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162305.000,4.635618,-74.080140,2575.100,3.70,11.8,1,,0.7,1.1,0.8,,12,11,,,23,,
+
+OK
+
+info--> 1,1,20170130162305.000,4.635618,-74.080140,2575.100,3.70,11.8,1,,0.7,1.1,0.8,,12,11,,,23,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":19.2000,"hum":46.1000,"fuerzag":0,"fecha":"2017-01-30 11:23:05","lat":4.635618,"lng":-74.080140}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:23:12 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9328 - 2017-01-30 11:23:05"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162323.000,4.635853,-74.080150,2573.500,4.50,8.6,1,,0.7,1.7,1.5,,12,11,,,35,,
+
+OK
+
+info--> 1,1,20170130162323.000,4.635853,-74.080150,2573.500,4.50,8.6,1,,0.7,1.7,1.5,,12,11,,,35,,<-- 90
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":19.0000,"hum":45.8000,"fuerzag":0,"fecha":"2017-01-30 11:23:23","lat":4.635853,"lng":-74.080150}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:23:30 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9329 - 2017-01-30 11:23:23"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162341.000,4.635918,-74.080160,2574.600,0.57,327.0,1,,0.7,1.1,0.8,,12,11,,,46,,
+
+OK
+
+info--> 1,1,20170130162341.000,4.635918,-74.080160,2574.600,0.57,327.0,1,,0.7,1.1,0.8,,12,11,,,46,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":18.9000,"hum":45.1000,"fuerzag":0,"fecha":"2017-01-30 11:23:41","lat":4.635918,"lng":-74.080160}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:23:48 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9330 - 2017-01-30 11:23:41"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162359.000,4.636078,-74.080167,2574.700,4.43,1.4,1,,0.7,1.7,1.5,,12,11,,,36,,
+
+OK
+
+info--> 1,1,20170130162359.000,4.636078,-74.080167,2574.700,4.43,1.4,1,,0.7,1.7,1.5,,12,11,,,36,,<-- 90
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":18.9000,"hum":46.8000,"fuerzag":0,"fecha":"2017-01-30 11:23:59","lat":4.636078,"lng":-74.080167}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:24:08 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9331 - 2017-01-30 11:23:59"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162419.000,4.636347,-74.080182,2576.900,5.56,345.4,1,,0.7,1.7,1.5,,12,11,,,41,,
+
+OK
+
+info--> 1,1,20170130162419.000,4.636347,-74.080182,2576.900,5.56,345.4,1,,0.7,1.7,1.5,,12,11,,,41,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":19.0000,"hum":46.4000,"fuerzag":0,"fecha":"2017-01-30 11:24:19","lat":4.636347,"lng":-74.080182}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:24:26 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9332 - 2017-01-30 11:24:19"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162437.000,4.636568,-74.080233,2576.600,4.56,353.9,1,,0.7,1.7,1.5,,12,11,,,40,,
+
+OK
+
+info--> 1,1,20170130162437.000,4.636568,-74.080233,2576.600,4.56,353.9,1,,0.7,1.7,1.5,,12,11,,,40,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":19.0000,"hum":46.7000,"fuerzag":0,"fecha":"2017-01-30 11:24:37","lat":4.636568,"lng":-74.080233}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:24:44 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9333 - 2017-01-30 11:24:37"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162455.000,4.636768,-74.080260,2576.000,4.30,343.3,1,,0.7,1.1,0.8,,12,11,,,37,,
+
+OK
+
+info--> 1,1,20170130162455.000,4.636768,-74.080260,2576.000,4.30,343.3,1,,0.7,1.1,0.8,,12,11,,,37,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":18.8000,"hum":45.0000,"fuerzag":0,"fecha":"2017-01-30 11:24:55","lat":4.636768,"lng":-74.080260}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:25:02 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9334 - 2017-01-30 11:24:55"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162458.000,4.636803,-74.080275,2576.300,2.80,326.4,1,,0.8,1.2,0.9,,12,9,,,40,,
+
+OK
+
+info--> 1,1,20170130162458.000,4.636803,-74.080275,2576.300,2.80,326.4,1,,0.8,1.2,0.9,,12,9,,,40,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":18.8000,"hum":45.0000,"fuerzag":0,"fecha":"2017-01-30 11:24:58","lat":4.636803,"lng":-74.080275}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:25:20 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9335 - 2017-01-30 11:24:58"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162531.000,4.637167,-74.080412,2574.200,1.35,16.7,1,,0.7,1.7,1.5,,12,11,,,46,,
+
+OK
+
+info--> 1,1,20170130162531.000,4.637167,-74.080412,2574.200,1.35,16.7,1,,0.7,1.7,1.5,,12,11,,,46,,<-- 91
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":18.6000,"hum":46.2000,"fuerzag":0,"fecha":"2017-01-30 11:25:31","lat":4.637167,"lng":-74.080412}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:25:38 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9336 - 2017-01-30 11:25:31"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162549.000,4.637172,-74.080408,2573.300,0.98,162.3,1,,0.8,1.1,0.8,,12,10,,,41,,
+
+OK
+
+info--> 1,1,20170130162549.000,4.637172,-74.080408,2573.300,0.98,162.3,1,,0.8,1.1,0.8,,12,10,,,41,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":18.5000,"hum":45.7000,"fuerzag":0,"fecha":"2017-01-30 11:25:49","lat":4.637172,"lng":-74.080408}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:25:56 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9337 - 2017-01-30 11:25:49"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162607.000,4.637053,-74.080400,2572.800,2.32,181.0,1,,0.7,1.1,0.8,,12,11,,,34,,
+
+OK
+
+info--> 1,1,20170130162607.000,4.637053,-74.080400,2572.800,2.32,181.0,1,,0.7,1.1,0.8,,12,11,,,34,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":18.9000,"hum":46.2000,"fuerzag":0,"fecha":"2017-01-30 11:26:07","lat":4.637053,"lng":-74.080400}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:26:19 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9338 - 2017-01-30 11:26:07"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162630.000,4.637182,-74.080400,2573.800,5.11,346.2,1,,0.9,2.1,1.9,,12,10,,,44,,
+
+OK
+
+info--> 1,1,20170130162630.000,4.637182,-74.080400,2573.800,5.11,346.2,1,,0.9,2.1,1.9,,12,10,,,44,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":18.8000,"hum":46.2000,"fuerzag":0,"fecha":"2017-01-30 11:26:30","lat":4.637182,"lng":-74.080400}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:26:37 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9339 - 2017-01-30 11:26:30"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162648.000,4.637413,-74.080507,2577.500,5.67,341.3,1,,0.7,1.1,0.8,,12,11,,,39,,
+
+OK
+
+info--> 1,1,20170130162648.000,4.637413,-74.080507,2577.500,5.67,341.3,1,,0.7,1.1,0.8,,12,11,,,39,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":18.8000,"hum":45.6000,"fuerzag":0,"fecha":"2017-01-30 11:26:48","lat":4.637413,"lng":-74.080507}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:26:55 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9340 - 2017-01-30 11:26:48"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162706.000,4.637652,-74.080608,2576.900,4.26,341.7,1,,0.7,1.1,0.8,,12,11,,,40,,
+
+OK
+
+info--> 1,1,20170130162706.000,4.637652,-74.080608,2576.900,4.26,341.7,1,,0.7,1.1,0.8,,12,11,,,40,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":18.7000,"hum":45.1000,"fuerzag":0,"fecha":"2017-01-30 11:27:06","lat":4.637652,"lng":-74.080608}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:27:16 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9341 - 2017-01-30 11:27:06"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162727.000,4.637862,-74.080727,2576.900,4.28,333.4,1,,0.7,1.7,1.5,,12,11,,,43,,
+
+OK
+
+info--> 1,1,20170130162727.000,4.637862,-74.080727,2576.900,4.28,333.4,1,,0.7,1.7,1.5,,12,11,,,43,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":18.7000,"hum":45.4000,"fuerzag":0,"fecha":"2017-01-30 11:27:27","lat":4.637862,"lng":-74.080727}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:27:34 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9342 - 2017-01-30 11:27:27"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162746.000,4.638043,-74.080848,2578.800,4.82,331.6,1,,0.7,1.1,0.8,,12,11,,,40,,
+
+OK
+
+info--> 1,1,20170130162746.000,4.638043,-74.080848,2578.800,4.82,331.6,1,,0.7,1.1,0.8,,12,11,,,40,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":18.5000,"hum":44.5000,"fuerzag":0,"fecha":"2017-01-30 11:27:46","lat":4.638043,"lng":-74.080848}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:27:53 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9343 - 2017-01-30 11:27:46"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162804.000,4.638228,-74.080963,2579.300,4.19,324.8,1,,0.7,1.1,0.8,,12,11,,,44,,
+
+OK
+
+info--> 1,1,20170130162804.000,4.638228,-74.080963,2579.300,4.19,324.8,1,,0.7,1.1,0.8,,12,11,,,44,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":18.7000,"hum":46.6000,"fuerzag":0,"fecha":"2017-01-30 11:28:04","lat":4.638228,"lng":-74.080963}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:28:11 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9344 - 2017-01-30 11:28:04"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162822.000,4.638405,-74.081080,2579.000,4.33,327.4,1,,0.7,1.1,0.8,,12,11,,,42,,
+
+OK
+
+info--> 1,1,20170130162822.000,4.638405,-74.081080,2579.000,4.33,327.4,1,,0.7,1.1,0.8,,12,11,,,42,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+
+CONNECT OK
+
+Coneccion IP====> OK
+
+CONNECT OK
+<=========
+Error---> False <------
+Already---> False <-----
+> POST /ords/sepro/tracking/ HTTP/1.0
+-1
+Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090
+-1
+Content-Type: application/json
+-1
+Content-Length: 126
+-1
+
+-1
+{"token":123,"ruta":43,"temp":18.8000,"hum":45.5000,"fuerzag":0,"fecha":"2017-01-30 11:28:22","lat":4.638405,"lng":-74.081080}
+-1
+
+-1
+SEND OK
+-1
+HTTP/1.1 200 OK
+-1
+Server: GlassFish Server Open Source Edition  4.1.1 
+-1
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+-1
+Content-Type: application/json
+-1
+Date: Mon, 30 Jan 2017 16:28:29 GMT
+-1
+Connection: close
+-1
+
+-1
+{"resultado":"Se ha guardado correctamente la fila conn id devuelto =9345 - 2017-01-30 11:28:22"}
+-1
+CLOSED
+0
+Breack, conn closed
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130162840.000,4.638575,-74.081207,2575.100,4.24,320.4,1,,0.7,1.1,0.8,,12,11,,,42,,
+
+OK
+
+info--> 1,1,20170130162840.000,4.638575,-74.081207,2575.100,4.24,320.4,1,,0.7,1.1,0.8,,12,11,,,42,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+OK
+      
+No son iguales los strings
+Coneccion IP====> ERROR LA RESPUESTA NO ES LA ESPERADA <=========
+Error---> True <------
+Already---> False <-----
+ERROR
+-1
+POST /ords/sepro/tracking/ HTTP/1.0Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090Content-Type: application/jsonContent-Length: 126{"token":123,"ruta":43,"temp":18.7000,"hum":44.7000,"fuerzag":0,"fecha":"2017-01-30 11:28:40","lat":4.638575,"lng":-74.081207}       -1
+                  -1
+       -1
+ -1
+         -1
+ -1
+  -1
+    -1
+                               -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+ -1
+AT+CIPCLOSE
+
+ERROR
+
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+
+AT+CGNSINF
+
++CGNSINF: 0,,,,,,,,,,,,,,,,,,,,
+
+OK
+
+GPS Len: 3
+AT
+
+OK
+
+AT+CGNSSEQ="RMC"
+
+OK
+

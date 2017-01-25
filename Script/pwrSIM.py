@@ -7,6 +7,7 @@ from RPi_Driver import Send,ShutGSM
 # this module need some seconds to it works well. This process can 
 # delay at least two minutes, please be patient. Use once to Turn ON
 # the module and then use the other programms.
+ser = serial.Serial('/dev/ttyAMA0',115200,timeout=2);
 
 def Net_Mistake(ser,str_TX,str_RX,line):
 	Net = Send(ser,str_TX,str_RX,line);
@@ -14,7 +15,8 @@ def Net_Mistake(ser,str_TX,str_RX,line):
 		print "No hay conexion a internet";
 		return 0;
 
-def Net_ON();
+def Net_ON():
+	print "-------------->Net_ON<----------------"
 	# Turn on the network of module
 	ShutGSM(ser);
 	Net_Mistake(ser,'AT+CGATT=1\n','OK\r\n',1);
@@ -22,9 +24,9 @@ def Net_ON();
 	net=Net_Mistake(ser,'AT+CIICR\n','OK\r\n',3);
 	if (net==0):
 		pwr_ON();
-		return 0;
+		#return 0;
 	Send(ser,'AT+CIFSR\n','OK\r\n',1);
-
+	print "------------------->GPS ON<-------------------"
 	# Active GPS
 	Send(ser,'AT\n','OK\r\n',1);
 	Send(ser,'AT+CGNSPWR=1\n','OK\r\n',1);
@@ -39,7 +41,6 @@ def pwr_OFF():
 
 def pwr_ON():
 	# Initial command
-	ser = serial.Serial('/dev/ttyAMA0',115200,timeout=2);
 	ok=Send(ser,'AT\n','OK\r\n',1);
 	if (ok.find("ERROR")!=-1):
 		ok=Send(ser,'AT\n','OK\r\n',1);

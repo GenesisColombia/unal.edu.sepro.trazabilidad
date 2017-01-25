@@ -1,0 +1,100 @@
+AT
+
+OK
+
+AT+CMGD=1
+
+OK
+
+-------------->Net_ON<----------------
+AT+CIPSHUT
+
+SHUT OK
+
+AT+CGATT=0
+
+OK
+
+AT+CGATT=1
+
+
+No son iguales los strings
+No hay conexion a internet
+ERROR
+
+AT+CSTT="internet.movistar.com.co","movistar","movistar"
+
+No son iguales los strings
+No hay conexion a internet
+OK
+
+AT+CIICR
++PDP: DEACT
+
+
+No son iguales los strings
+No hay conexion a internet
+ERROR
+
+AT
+
+No son iguales los strings
+OK
+
+AT
+
+No son iguales los strings
+Hard Reset FONA
+OK
+
+AT
+
+No son iguales los strings
+OK
+
+AT+CGNSSEQ="RMC"
+
+No son iguales los strings
+OK
+
+AT+CGNSINF
++CGNSINF: 1,1,20170130163900.000,4.639963,-74.083900,2570.600,0.22,206.2,1,,0.8,1.1,0.8,,13,11,,,37,,
+
+
+No son iguales los strings
+OK
+
+AT
+OK
+
+AT+CGNSINF
+
++CGNSINF: 1,1,20170130163902.000,4.639963,-74.083900,2570.600,0.72,322.9,1,,0.8,1.1,0.8,,13,11,,,37,,
+
+OK
+
+info--> 1,1,20170130163902.000,4.639963,-74.083900,2570.600,0.72,322.9,1,,0.8,1.1,0.8,,13,11,,,37,,<-- 92
+GPS Len: 4
+AT
+
+OK
+
+AT+CIPSTART="TCP","ec2-54-174-66-58.compute-1.amazonaws.com","9090"
+
+ERROR
+
+No son iguales los strings
+Coneccion IP====> ERROR LA RESPUESTA NO ES LA ESPERADA <=========
+Error---> True <------
+Already---> False <-----
+ERROR
+-1
+POST /ords/sepro/tracking/ HTTP/1.0Host: ec2-54-174-66-58.compute-1.amazonaws.com:9090Content-Type: application/jsonContent-Length: 126{"token":123,"ruta":43,"temp":21.4000,"hum":37.7000,"fuerzag":0,"fecha":"2017-01-30 11:39:02","lat":4.639963,"lng":-74.083900}
+-1
+SIM808 R14.18
+-1
+
+-1
+ERROR
+-1
+ -1
