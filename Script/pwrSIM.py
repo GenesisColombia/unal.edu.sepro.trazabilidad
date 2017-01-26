@@ -17,10 +17,10 @@ ser = serial.Serial('/dev/ttyAMA0',115200,timeout=10);
 # delay at least two minutes, please be patient. Use once to Turn ON
 # the module and then use the other programms.
 
-PWR = raw_input('Turn ON or OFF Module FONA808?	'); # What do you do ? IN - OFF
-PWR = int(PWR);
+#PWR = raw_input('Turn ON or OFF Module FONA808?	'); # What do you do ? IN - OFF
+#PWR = int(PWR);
 
-if(PWR==1):
+def pwr_ON():
 	# Initial command
 	Send(ser,'AT\n','OK\r\n',1);
 	# Delete Message of Module
@@ -29,14 +29,14 @@ if(PWR==1):
 
 	# Turn on the network of module
 	ON_Net(ser,'AT+CGATT=1\n','OK\r\n',1);
-	ON_Net(ser,'AT+CSTT="internet.comcel.com.co","comcel","comcel"\n','OK\r\n',1);
+	ON_Net(ser,'AT+CSTT="internet.movistar.com.co","movistar","movistar"\n','OK\r\n',1);
 	ON_Net(ser,'AT+CIICR\n','OK\r\n',3);
 	Send(ser,'AT+CIFSR\n','OK\r\n',1);
 
 	# Active GPS
 	Send(ser,'AT\n','OK\r\n',1);
 	Send(ser,'AT+CGNSPWR=1\n','OK\r\n',1);
-elif(PWR==0):
+def pwr_OFF():
 	# Desactive GSM Antenna 
 	Send(ser,'AT\n','OK\r\n',1);
 	ShutGSM(ser);

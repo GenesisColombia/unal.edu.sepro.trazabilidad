@@ -4,11 +4,21 @@ import getGPS
 import getTempHum
 import post
 import datetime
-
+import pwrSIM
+#pwrSIM.pwr_OFF()
+pwrSIM.pwr_ON()
 while (1):
-	
-	Date,Lon,Lat,Alt =getGPS.write()
+	GPS=getGPS.write()
+	while (len(GPS)<4):
+		print "GPS Len:",len(GPS)
+		GPS=getGPS.write()
+	print "GPS Len:",len(GPS)
+	Date,Lon,Lat,Alt =GPS
 	Date=datetime.datetime.strptime(str(int(float(Date))),'%Y%m%d%H%M%S')
 	Hum,Temp=getTempHum.write()
-	post.send(Date,Lon,Lat,Alt,Temp,Hum)
-	time.sleep(30)
+	Hum='%.3f'%(Hum)
+	Temp= '%.3f'%(Temp)
+	pwr=post.send(Date,Lon,Lat,Alt,Temp,Hum)
+	if (pwr=="pwr"):
+		pwrSIM.pwr_ON()
+	time.sleep(2)

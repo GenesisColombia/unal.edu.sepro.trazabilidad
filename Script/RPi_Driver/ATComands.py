@@ -27,10 +27,14 @@ def Send(port,str_TX,str_RX,lines):
 	i=0;
 	Check = '';
 	sizeRX = len(RX_info);
-	sizestr = len(str_RX);	
+	sizestr = len(str_RX);
+	print "RX_info--->",RX_info,"<----"
 	if(str_TX!='AT+CIFSR\n' and str_TX!='AT+CGATT=0\n'):
 		for i in range(sizeRX-sizestr,sizeRX):
-			Check += RX_info[i];
+			try:
+				Check += RX_info[i];
+			except IndexError:
+				Check = 'null'
 		if(RX_info == "+PDP: DEACT\r\n\r\nERROR\r\n"):
 			print "Existen problemas con la read, se volvera a reiniciar el proceso";
 			return ERROR_NETWORK;
@@ -54,11 +58,19 @@ def KeepGPS(port):
 			info += Keep[i];
 		elif(Keep[i]=='0'):
 			return ERROR_PWR,'\0','\0';
-	print info;
+	print "info-->",info,"<--",len(info);
 	# Keeping date
-	day = int(info[10]+info[11]);
-	hour = int(info[12]+info[13]);
-	hour -= 5;
+	if len(info)<10:
+		return 0,0,0
+	try:
+		day = int(info[10]+info[11]);
+	except IndexError:
+		day = 1
+	try:
+		hour = int(info[12]+info[13]);
+		hour -= 5;
+	except IndexError:
+		hour=1
 	if(hour<0):
 		hour = 24 + hour;
 		day = day -1;
@@ -115,4 +127,9 @@ def SendInfo(port,URL):
 	port.write(URL);
 	for i in range(0,30):
 		line = port.readline();
-		print line;
+		print line,line.find("CLOSED");
+		if (line.find("CLOSED")!=-1):
+			print "Breack, conn closed"
+			break
+		if (line.find("DEACT")!=-1):
+			return "pwr"
