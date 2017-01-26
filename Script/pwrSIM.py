@@ -7,7 +7,7 @@ def ON_Net(ser,str_TX,str_RX,line):
 	Net = Send(ser,str_TX,str_RX,line);
 	if(Net[0]=="E"):
 		print "No hay conexion a internet";
-		sys.exit(1);
+		return 0;
 
 
 ser = serial.Serial('/dev/ttyAMA0',115200,timeout=10);
@@ -22,7 +22,12 @@ ser = serial.Serial('/dev/ttyAMA0',115200,timeout=10);
 
 def pwr_ON():
 	# Initial command
-	Send(ser,'AT\n','OK\r\n',1);
+	ok=Send(ser,'AT\n','OK\r\n',1);
+	if (ok.find("ERROR")!=-1):
+		ok=Send(ser,'AT\n','OK\r\n',1);
+		if (ok.find("ERROR")!=-1):
+			reset_FONA()
+			return 0
 	# Delete Message of Module
 	Send(ser,'AT+CMGD=1\n','OK\r\n',1);
 	ShutGSM(ser);
@@ -30,7 +35,10 @@ def pwr_ON():
 	# Turn on the network of module
 	ON_Net(ser,'AT+CGATT=1\n','OK\r\n',1);
 	ON_Net(ser,'AT+CSTT="internet.movistar.com.co","movistar","movistar"\n','OK\r\n',1);
-	ON_Net(ser,'AT+CIICR\n','OK\r\n',3);
+	net=ON_Net(ser,'AT+CIICR\n','OK\r\n',3);
+	if (net==0):
+		pwr_ON()
+		return 0
 	Send(ser,'AT+CIFSR\n','OK\r\n',1);
 
 	# Active GPS
@@ -43,3 +51,7 @@ def pwr_OFF():
 	# Desactive GPS Antenna
 	Send(ser,'AT\n','OK\r\n',1);
 	Send(ser,'AT+CGNSPWR=0\n','OK\r\n',1);
+def reset_FONA():
+	#pin(8).low
+	#sleep(1)
+	print "Hard Reset FONA"

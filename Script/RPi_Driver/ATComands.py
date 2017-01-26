@@ -8,6 +8,7 @@ ERROR_PWR = "ERROR EN EJECUCION DEL GPS, NO SE ENCUENTRA ALIMENTADO";
 ERROR_SIGNAL = "ERROR EN EJECUCION DEL GPS, NO TIENE SENYAL DE SATELITES";
 ERROR_NETWORK = "ERROR EN CONEXION CON LA RED";
 ERROR_ANS = "ERROR LA RESPUESTA NO ES LA ESPERADA";
+ERROR_COMM = "ERROR COMUNICACION SERIAL"
 
 def Send(port,str_TX,str_RX,lines):
 	# Definitions to keep the information
@@ -28,7 +29,8 @@ def Send(port,str_TX,str_RX,lines):
 	Check = '';
 	sizeRX = len(RX_info);
 	sizestr = len(str_RX);
-	print "RX_info--->",RX_info,"<----"
+	if (sizeRX==0):
+		return ERROR_COMM
 	if(str_TX!='AT+CIFSR\n' and str_TX!='AT+CGATT=0\n'):
 		for i in range(sizeRX-sizestr,sizeRX):
 			try:
@@ -45,9 +47,14 @@ def Send(port,str_TX,str_RX,lines):
 
 def KeepGPS(port):
 	Keep = Send(port,'AT+CGNSINF\r\n','OK\r\n',3);
+	while (Keep==ERROR_ANS):
+		Send(port,'AT\r\n','OK\r\n',3);
+		Keep = Send(port,'AT+CGNSINF\r\n','OK\r\n',3);
+		print "Keep(While)->",Keep,"<-"
 	info = '';
 	initial = false;
 	# Keep in a new array the important information 
+	print "Keep->",Keep,"<-"
 	for i in range(0,len(Keep)):
 		if(Keep[i]=='1'):
 			initial = true;
@@ -131,5 +138,5 @@ def SendInfo(port,URL):
 		if (line.find("CLOSED")!=-1):
 			print "Breack, conn closed"
 			break
-		if (line.find("DEACT")!=-1):
+		if (line.find("DEACT")!=-1 or line.find("R14.18")!=-1):
 			return "pwr"
