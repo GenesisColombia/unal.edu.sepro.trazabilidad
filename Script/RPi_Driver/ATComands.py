@@ -15,7 +15,7 @@ def Send(port,str_TX,str_RX,lines):
 	i=0;
 	RX_info = '';
 
-	port.write(str_TX);				# Send string to module
+	port.write(str_TX);					# Send string to module
 	sleep(0.020);
 	TX_info = port.readline();			# Always the module transmits the string which we send
 	while i<lines:
@@ -23,7 +23,7 @@ def Send(port,str_TX,str_RX,lines):
 		i+=1;
 	print TX_info;
 	print RX_info;
-	
+
 	# Checking of the last line of RX_info
 	i=0;
 	Check = '';
@@ -50,11 +50,10 @@ def KeepGPS(port):
 	while (Keep==ERROR_ANS):
 		Send(port,'AT\r\n','OK\r\n',3);
 		Keep = Send(port,'AT+CGNSINF\r\n','OK\r\n',3);
-		print "Keep(While)->",Keep,"<-"
 	info = '';
 	initial = false;
 	# Keep in a new array the important information 
-	print "Keep->",Keep,"<-"
+
 	for i in range(0,len(Keep)):
 		if(Keep[i]=='1'):
 			initial = true;
@@ -138,5 +137,5 @@ def SendInfo(port,URL):
 		if (line.find("CLOSED")!=-1):
 			print "Breack, conn closed"
 			break
-		if (line.find("DEACT")!=-1 or line.find("R14.18")!=-1):
+		if (line.find("DEACT")!=-1):
 			return "pwr"

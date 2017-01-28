@@ -1,10 +1,11 @@
 #!/usr/bin/python
 import time
+import pwrSIM
 import getGPS
 import getTempHum
 import post
 import datetime
-import pwrSIM
+
 #pwrSIM.pwr_OFF()
 pwrSIM.pwr_ON()
 while (1):
@@ -13,7 +14,7 @@ while (1):
 		print "GPS Len:",len(GPS)
 		GPS=getGPS.write()
 	print "GPS Len:",len(GPS)
-	Date,Lon,Lat,Alt =GPS
+	Date,Lat,Lon,Alt =GPS
 	Date=datetime.datetime.strptime(str(int(float(Date))),'%Y%m%d%H%M%S')
 	Hum,Temp=getTempHum.write()
 	Hum='%.4f'%(Hum)
