@@ -20,7 +20,12 @@ def Net_ON():
 	# Turn on the network of module
 	ShutGSM(ser);
 	Net_Mistake(ser,'AT+CGATT=1\n','OK\r\n',1);
-	Net_Mistake(ser,'AT+CSTT="internet.movistar.com.co","movistar","movistar"\n','OK\r\n',1);
+
+	# Movistar Connection
+	#Net_Mistake(ser,'AT+CSTT="internet.movistar.com.co","movistar","movistar"\n','OK\r\n',1);
+	# Comcel Connection
+	Net_Mistake(ser,'AT+CSTT="internet.comcel.com.co","comcel","comcel"\n','OK\r\n',1);
+	
 	net=Net_Mistake(ser,'AT+CIICR\n','OK\r\n',3);
 	if (net==0):
 		pwr_ON();
