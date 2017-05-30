@@ -1,0 +1,18 @@
+#! /bin/bash
+
+echo "**********************************************"
+
+# build i2c_test
+gcc i2c_test.c i2c.c gpio.c -lpigpio -lwiringPi
+#gcc i2c_test.c i2c.c gpio.c -lpigpio -lrt -lpthread
+mv a.out i2c_test
+chmod u+x i2c_test
+
+# build i2c .so library
+
+gcc -Wall -shared -o i2c.so -fPIC i2c.c gpio.c -lwiringPi
+#gcc -Wall -shared -o i2c.so -fPIC i2c.c gpio.c -lpigpio -lrt -lpthread
+#nm -D i2c.so
+
+
+

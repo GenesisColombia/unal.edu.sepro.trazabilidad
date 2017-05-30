@@ -1,0 +1,18 @@
+Para el correcto funcionamiento de los sensores I2C realizar el siguiente procedimiento:
+
+1. Istalar las librerias SMBUS2 mediante el siguiente comando:
+
+	pip install smbus2
+
+2. Modificar el archivo smbus2.py mediente el siguiente comando:
+	
+	sudo nano /usr/local/lib/python2.7/dist-packages/smbus2/smbus2.py
+
+ e incluir las sentencias try/except en las funciones write_byte_data y read_i2c_block_data, de tal forma que queden así:
+
+	try:
+                ioctl(self.fd, I2C_SMBUS, msg)
+                return msg.data.contents.block[1:length+1]
+        except:
+                pass
+
