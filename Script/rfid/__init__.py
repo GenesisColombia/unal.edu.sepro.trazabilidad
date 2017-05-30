@@ -1,15 +1,6 @@
 # SL030 RFID reader driver for skpang supplied SL030 Mifare reader
 # (c) 2013-2014 Thinking Binaries Ltd, David Whale
 
-#===============================================================================
-# CONFIGURATION
-#
-# You can change these configuration items either by editing them in this
-# file, or by refering to the module by name inside your own program. 
-# e.g. 
-#   import rfid
-#   rfid.CFGEN_GPIO = False
-
 
 # set to True to detect card presence by using GPIO
 # set to False to detect card presence by reading card status
@@ -29,7 +20,7 @@ CFG_TAG_ABSENT_POLL_TIME = 0.5
 
 # Set to True to throw an exception when an error is printed
 # Set to False to just print the error
-CFGEN_EXCEPTIONS = True
+CFGEN_EXCEPTIONS = False
 
 # The function called when an error occurs in this module
 # you can replace this with a function of your own to handle errors
@@ -100,8 +91,8 @@ class SL030:
     if CFGEN_GPIO:
       if gpio == None:
         # use default RPi.GPIO, if nothing else provided
-        import RPi.GPIO as GPIO
-        GPIO.setmode(GPIO.BCM)
+	import RPi.GPIO as GPIO
+	GPIO.setmode(GPIO.BCM)
         self.GPIO = GPIO
       self.GPIO.setup(CFG_TAG_DETECT, GPIO.IN)
 
@@ -112,6 +103,7 @@ class SL030:
       return self.select_mifare()
 
   def waitTag(self):
+    ci2c.relase()
     while not self.tagIsPresent():
       time.sleep(CFG_TAG_PRESENT_POLL_TIME)
 
@@ -151,21 +143,29 @@ class SL030:
 
 
   def readMifare(self):
+    #ci2c.initDefaults()
+    #time.sleep(1)
+    #self.GPIO.setup(26, GPIO.OUT)
+    #self.GPIO.output(26, GPIO.LOW)
     result = ci2c.write(CFG_ADDRESS, [1, CMD_SELECT_MIFARE])
     time.sleep(WR_RD_DELAY)
     if result != 0:
-      error("readMifare:Cannot read, result=" + str(result))
+      error("readMifare:Cannot write, result=" + str(result))
+      ci2c.relase()
       return False
       
     result, buf = ci2c.read(CFG_ADDRESS, 15)
     if result != 0:
-      error("readMifare:Cannot write, result=" + str(result))
+      error("readMifare:Cannot read, result=" + str(result))
+      ci2c.relase()
       return False
       
     length = buf[0]
     cmd    = buf[1]
     status = buf[2] 
-
+    ci2c.relase()
+    #self.GPIO.output(26, GPIO.HIGH)
+    #self.GPIO.cleanup() 
     if (status != 0x00):
       self.uid  = None
       self.type = None

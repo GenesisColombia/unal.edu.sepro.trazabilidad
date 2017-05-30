@@ -18,18 +18,24 @@ i2c_RxByte_fn        = libi2c["i2c_RxByte"]
 i2c_Write_fn         = libi2c["i2c_Write"]
 i2c_Read_fn          = libi2c["i2c_Read"]
 i2c_Finished_fn      = libi2c["i2c_Finished"]
+gpio_relase	     = libi2c["gpio_relase"]
 
 def trace(msg):
   print("i2c:" + msg)
 
+def relase():
+  trace("Relase I2c Pins")
+  result = gpio_relase()
+  return result
+
 def initDefaults():
   # void i2c_InitDefaults(void);
-  #trace("calling gpio_init")
+  trace("calling gpio_init")
   gpio_init_fn()
 
-  #trace("calling InitDefaults")
+  trace("calling InitDefaults")
   result = i2c_InitDefaults_fn()
-  #trace("returned from InitDefaults")
+  trace("returned from InitDefaults")
   return result
 
 #def init():
@@ -105,7 +111,7 @@ def read(addr, maxlen):
   
 def finished():
   # I2CRESULT i2c_Finished(void);
-  #trace("calling finished")
+  trace("calling finished")
   result = i2c_Finished_fn()
   return result
   
